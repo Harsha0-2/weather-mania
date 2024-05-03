@@ -5,10 +5,6 @@
 
 ### This  web project done in html,css ,js
 
-#### Web link 
-
- https://sachinprajapati8604.github.io/Weather_webApp/
- 
  #### netlify link
  
  https://weather-harsha0-2.netlify.app/
